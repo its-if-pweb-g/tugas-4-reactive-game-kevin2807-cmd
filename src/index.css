@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.correct {
+  @apply bg-primary;
+}
+
+.wrong {
+  @apply bg-red-600;
+}
