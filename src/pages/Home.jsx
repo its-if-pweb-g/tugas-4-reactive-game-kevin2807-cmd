@@ -9,11 +9,7 @@ function Home() {
       <div className="container mx-auto">
         <div className="flex flex-col justify-center items-center mt-36">
           <div className="mb-10 flex flex-col justify-center items-center">
-            <img
-              src="../public/images/logo.png"
-              alt="gambar-logo"
-              width="350"
-            />
+            <img src="images/logo.png" alt="gambar-logo" width="350" />
             <h1 className="text-5xl font-bold text-primary">Quizzles</h1>
           </div>
           <div className="mb-14 flex flex-col justify-center items-center">
